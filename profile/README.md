@@ -16,4 +16,4 @@ Some of our current projects include:
 
 **Building Software Skills**
 * [Engineering Blog Bot](https://github.com/WhatcomCodersDev/engineeringBlogBot) - A discord bot that posts and summarizes engineering, product and ML blogs such as Quastor, top NLP papers and Lenny's newsletter
-* [Bootstrap Service](https://github.com/WhatcomCodersDev/bootstrap_service) - A service that automates setting up a backend service and manages cloud resources for
+* [Bootstrap Service](https://github.com/WhatcomCodersDev/bootstrap_service) - A service that automates setting up a backend service and manages cloud resources for you
