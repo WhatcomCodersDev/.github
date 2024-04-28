@@ -3,6 +3,7 @@
 This organization houses our software for [Whatcom Coders](https://www.whatcomcoders.com/). Our goal is to build software that gives Western Washington University student's and alumni a competitive advantage in their careers. 
 
 Some of our current projects include:
+
 Interviewing
 * [Leetcode Bot](https://github.com/WhatcomCodersDev/leetcode_bot) - A discord bot that gamifies leetcode
 
