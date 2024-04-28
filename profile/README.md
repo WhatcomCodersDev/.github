@@ -6,7 +6,7 @@ Some of our current projects include:
 
 
 **Interviewing**
-* [Leetcode Bot](https://github.com/WhatcomCodersDev/leetcode_bot) - A discord bot that gamifies leetcode
+* [Leetcode Bot](https://github.com/WhatcomCodersDev/leetcode_bot) - A discord bot that gamifies leetcode to keep you accountable and consistent in a group setting 
 
 **Job Opportunities**
 * [Job Hunt Bot](https://github.com/WhatcomCodersDev/jobHuntBot) - A discord bot that scrapes github repos, job posting sites and blogs for new job opportunities
